@@ -18,6 +18,6 @@ This repo contains the data and R scripts used to run the analysis and figures p
   * **script_figs_stats.R**: codes used to create the figures and run the analysis conducted throughout the main text of the manuscript
   * **script_suppl_mat.R**: codes used to create the figures and run the analysis used in the supplementary material of the manuscript
 
-### Raw datasets:
+### Datasets:
   * **dataset.csv**: raw dataset used in this manuscript
   * **dataset.csv**: raw dataset used in this manucript
